@@ -1,3 +1,4 @@
+#battleship game from Codecademy lessons
 from random import randint
 
 board = []
